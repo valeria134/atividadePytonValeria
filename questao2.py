@@ -9,3 +9,13 @@ c=n3**3
 print('o primeiro resultado sera:',a)
 print('o segundo resultado sera:',b)
 print('o  terceiro resultado sera:',c)
+
+
+
+
+
+
+
+
+
+
